@@ -1,0 +1,9 @@
+# ninja log v5
+5	366	7029070593373212	CMakeFiles/Rastergrafik.dir/main.c.obj	c4881c3bb6aa26a3
+3	1302	7024845556797835	CMakeFiles/Rastergrafik.dir/draw.c.obj	f329488a4d74af10
+367	608	7029070595783191	Rastergrafik.exe	888c3e14b14f0239
+2	413	7029072802889539	build.ninja	9d10690649c498e1
+1	272	7029072802889539	build.ninja	9d10690649c498e1
+3	225	7029072805547234	CMakeFiles/Rastergrafik.dir/draw.c.obj	f329488a4d74af10
+3	229	7029073103940868	CMakeFiles/Rastergrafik.dir/main.c.obj	c4881c3bb6aa26a3
+229	491	7029073106547539	Rastergrafik.exe	888c3e14b14f0239
